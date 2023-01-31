@@ -3,8 +3,8 @@
 > Brazilian Table of Food Composition
 
 <p align="center">
- <a href="https://github.com/raulfdm/taco-api/actions/workflows/app.yml">
-   <img src="https://github.com/raulfdm/taco-api/actions/workflows/app.yml/badge.svg"
+ <a href="https://github.com/passion-127/taco-api/actions/workflows/app.yml">
+   <img src="https://github.com/passion-127/taco-api/actions/workflows/app.yml/badge.svg"
         alt="build status">
  </a>
  <a href="https://travis-ci.org/raulfdm/taco-api">
